@@ -1,11 +1,7 @@
 print("hello world")
-
 next = input("请输入下一行：")  
-
-
 print(next)     
-
 next2 = input("请输入下一行：")
-
 print(next2)
+print("这是最后一行了！")
 print("这是最后一行了！")
